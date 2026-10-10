@@ -1,0 +1,90 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 393 >>
+stream
+BT
+/F1 12 Tf
+14 TL
+72 740 Td
+/F1 18 Tf
+(Simple Harmonic Motion) Tj
+/F1 12 Tf
+T*
+T*
+(- Restoring force proportional to displacement) Tj
+T*
+(- Hooke's law: F = -kx for an ideal spring) Tj
+T*
+(- Angular frequency of a mass-spring system: omega = sqrt\(k/m\)) Tj
+T*
+(- Period of oscillation T = 2 pi sqrt\(m/k\)) Tj
+T*
+(Definition: amplitude is the maximum displacement from equilibrium.) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 71 >>
+stream
+0.6 g 72 400 450 300 re f 0.2 g 100 450 300 20 re f 100 500 250 20 re f
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 363 >>
+stream
+BT
+/F1 12 Tf
+14 TL
+72 740 Td
+/F1 18 Tf
+(Damped Oscillations) Tj
+/F1 12 Tf
+T*
+T*
+(- Damping force proportional to velocity reduces amplitude) Tj
+T*
+(- Underdamped, critically damped and overdamped motion) Tj
+T*
+(Example: calibrating a quartz crystal oscillator in a wristwatch circuit) Tj
+T*
+(Example: seismometer magnetic braking with eddy current coils) Tj
+T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000641 00000 n 
+0000000767 00000 n 
+0000000888 00000 n 
+0000001014 00000 n 
+0000001428 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+1554
+%%EOF
